@@ -17,8 +17,6 @@ A base utilizada contem informacoes de exoplanetas confirmados, como ano de desc
 NASA Exoplanet Archive:
 https://exoplanetarchive.ipac.caltech.edu/
 
-CSV baixado por consulta TAP em 07/06/2026.
-
 ## Requisitos atendidos
 
 - Base de dados real e justificada.
