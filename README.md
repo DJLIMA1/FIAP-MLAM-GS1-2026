@@ -1,6 +1,12 @@
-# Global Solution - MLAM 1CC
+# Global Solution - MLAM 1CCPK
 
 Projeto de analise estatistica em Python usando dados reais do NASA Exoplanet Archive.
+
+# Grupo
+
+1. Murillo Lima de Carvalho - RM570156
+2. Augusto de Souza Ávila - RM570839
+
 
 ## Tema escolhido
 
@@ -13,28 +19,6 @@ https://exoplanetarchive.ipac.caltech.edu/
 
 CSV baixado por consulta TAP em 07/06/2026.
 
-## Arquivos do projeto
-
-- `exoplanetas_nasa.csv`: base real usada no trabalho.
-- `analise_exoplanetas.ipynb`: notebook com codigo, tabelas, graficos e interpretacoes.
-- `relatorio_estatistico_final.pdf`: relatorio final do projeto.
-
-## Como executar
-
-Instale as dependencias:
-
-```bash
-pip install pandas matplotlib
-```
-
-Execute:
-
-```bash
-jupyter notebook analise_exoplanetas.ipynb
-```
-
-Tambem e possivel abrir o arquivo `analise_exoplanetas.ipynb` no Google Colab.
-
 ## Requisitos atendidos
 
 - Base de dados real e justificada.
@@ -43,7 +27,3 @@ Tambem e possivel abrir o arquivo `analise_exoplanetas.ipynb` no Google Colab.
 - Dois graficos estatisticos com titulo e rotulos.
 - Duas analises univariadas com media, mediana, moda, maximo, minimo, amplitude, variancia, desvio padrao e quartis.
 - Relatorio estatistico final em PDF.
-
-## Observacao
-
-Antes de entregar, publicar este projeto em um repositorio no GitHub e enviar no portal um arquivo `.txt` separado com os nomes, matriculas e link do repositorio.
